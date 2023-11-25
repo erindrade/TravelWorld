@@ -1,6 +1,6 @@
 # Simple React and Sass App
 
-![App Screenshot](https://imgur.com/a/WAdMhaz)
+![](https://imgur.com/a/WAdMhaz)
 
 ## Try it Live!
 
@@ -17,8 +17,10 @@ As you explore the project structure, you'll find a well-organized directory lay
 
 ## Technologies Used
 
--![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react): JavaScript library for building user interfaces.
--![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white): CSS extension language to enhance styles and maintainability.
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react): JavaScript library for building user interfaces.
+
+
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white): CSS extension language to enhance styles and maintainability.
 
 ### Prerequisites
 
