@@ -4,7 +4,7 @@
 
 ## Try it Live!
 
-Explore the WeatherWeb [here](https://travelworld-app.netlify.app/).
+Explore the TravelWorld Page [here](https://travelworld-app.netlify.app/).
 
 ## Overview
 
