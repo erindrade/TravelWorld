@@ -1,6 +1,6 @@
 # Simple React and Sass App
 
-![](https://ibb.co/NxS1WwL)
+![](https://imgur.com/qGJRsS2L)
 
 ## Try it Live!
 
