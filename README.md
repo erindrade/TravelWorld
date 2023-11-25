@@ -1,6 +1,6 @@
 # Simple React and Sass App
 
-![](https://imgur.com/vkl52g6)
+![](https://ibb.co/NxS1WwL)
 
 ## Try it Live!
 
@@ -41,18 +41,18 @@ If you haven't installed Node.js and npm yet, you can download and install them 
 
 cd TravelWorld
 
-Install dependencies:
+3.Install dependencies:
 
 npm install
 
-3. Running the Application
+4.Running the Application
 
-  Start the development server:
+  -Start the development server:
 
 npm start
 
-Open your browser and visit http://localhost:3000 to view the app.
+5.Open your browser and visit http://localhost:3000 to view the app.
 
-##Customization
+## Customization
 
 Feel free to customize the app by modifying the React components in the src/components directory and the styles in the src/styles directory.
